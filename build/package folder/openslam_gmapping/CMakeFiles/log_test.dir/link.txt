@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/log_test.dir/log/log_test.cpp.o  -o /home/robond/p5/devel/lib/openslam_gmapping/log_test -rdynamic /home/robond/p5/devel/lib/liblog.so /home/robond/p5/devel/lib/libsensor_range.so /home/robond/p5/devel/lib/libsensor_odometry.so /home/robond/p5/devel/lib/libsensor_base.so -Wl,-rpath,/home/robond/p5/devel/lib: 

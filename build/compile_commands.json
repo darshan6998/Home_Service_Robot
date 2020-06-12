@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/robond/p5/build/joystick_drivers/wiimote",
+  "command": "/usr/bin/c++   -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"wiimote\\\" -I/home/robond/p5/devel/include -I/home/robond/p5/src/joystick_drivers/wiimote/include -I/opt/ros/kinetic/include -I/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -fPIE -fPIC -O2 -D_FORTIFY_SOURCE=2 -fstack-protector -Wformat -Wformat-security -Wall    -std=gnu++11 -o CMakeFiles/teleop_wiimote.dir/src/teleop_wiimote.cpp.o -c /home/robond/p5/src/joystick_drivers/wiimote/src/teleop_wiimote.cpp",
+  "file": "/home/robond/p5/src/joystick_drivers/wiimote/src/teleop_wiimote.cpp"
+},
+{
+  "directory": "/home/robond/p5/build/joystick_drivers/wiimote",
+  "command": "/usr/bin/c++   -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"wiimote\\\" -I/home/robond/p5/devel/include -I/home/robond/p5/src/joystick_drivers/wiimote/include -I/opt/ros/kinetic/include -I/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -fPIE -fPIC -O2 -D_FORTIFY_SOURCE=2 -fstack-protector -Wformat -Wformat-security -Wall    -std=gnu++11 -o CMakeFiles/wiimote_node.dir/src/wiimote_controller.cpp.o -c /home/robond/p5/src/joystick_drivers/wiimote/src/wiimote_controller.cpp",
+  "file": "/home/robond/p5/src/joystick_drivers/wiimote/src/wiimote_controller.cpp"
+},
+{
+  "directory": "/home/robond/p5/build/joystick_drivers/wiimote",
+  "command": "/usr/bin/c++   -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"wiimote\\\" -I/home/robond/p5/devel/include -I/home/robond/p5/src/joystick_drivers/wiimote/include -I/opt/ros/kinetic/include -I/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -fPIE -fPIC -O2 -D_FORTIFY_SOURCE=2 -fstack-protector -Wformat -Wformat-security -Wall    -std=gnu++11 -o CMakeFiles/wiimote_node.dir/src/stat_vector_3d.cpp.o -c /home/robond/p5/src/joystick_drivers/wiimote/src/stat_vector_3d.cpp",
+  "file": "/home/robond/p5/src/joystick_drivers/wiimote/src/stat_vector_3d.cpp"
+}
+]

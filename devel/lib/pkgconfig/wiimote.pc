@@ -1,0 +1,8 @@
+prefix=/home/robond/p5/devel
+
+Name: wiimote
+Description: Description of wiimote
+Version: 1.13.0
+Cflags: -I/home/robond/p5/devel/include -I/home/robond/p5/src/joystick_drivers/wiimote/include
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs sensor_msgs std_msgs std_srvs
