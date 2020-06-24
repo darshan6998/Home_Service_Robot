@@ -1,4 +1,4 @@
-# Home_Service_Robot_Udacity
+# Home_Service_Robot
 ![pic1](https://github.com/darshan6998/Home_Service_Robot_Udacity/blob/master/src/Screenshots/2020-06-12-095809_1920x1015_scrot.png)  
 ![pic2](https://github.com/darshan6998/Home_Service_Robot_Udacity/blob/master/src/Screenshots/2020-06-12-095730_1920x1015_scrot.png)
 
